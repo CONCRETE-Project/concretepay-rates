@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/eabz/concretepay-rates/models"
+	"github.com/CONCRETE-Project/concretepay-rates/models"
 	"github.com/shopspring/decimal"
 )
 

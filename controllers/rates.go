@@ -3,8 +3,8 @@ package controller
 import (
 	"sort"
 
-	"github.com/eabz/concretepay-rates/models"
-	"github.com/eabz/concretepay-rates/services"
+	"github.com/CONCRETE-Project/concretepay-rates/models"
+	"github.com/CONCRETE-Project/concretepay-rates/services"
 	"github.com/gin-gonic/gin"
 )
 

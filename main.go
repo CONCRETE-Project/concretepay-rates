@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/eabz/concretepay-rates/controllers"
-	"github.com/eabz/concretepay-rates/services"
+	controller "github.com/CONCRETE-Project/concretepay-rates/controllers"
+	"github.com/CONCRETE-Project/concretepay-rates/services"
 	"github.com/gin-contrib/cache"
 	"github.com/gin-contrib/cache/persistence"
 	"github.com/gin-contrib/cors"
